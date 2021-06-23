@@ -1,8 +1,10 @@
 {
   "name": "@tuyaworks/templates",
   "version": "1.0.0",
-  "private":"false",
-  "workspaces": ["templates/*"],
+  "private": "false",
+  "workspaces": [
+    "templates/*"
+  ],
   "description": "tuyaworks 模板的模板",
   "author": {
     "name": "洛竹",
