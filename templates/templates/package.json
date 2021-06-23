@@ -1,0 +1,16 @@
+{
+  "name": "@tuyaworks/templates",
+  "version": "1.0.0",
+  "private":"false",
+  "workspaces": ["templates/*"],
+  "description": "tuyaworks 模板的模板",
+  "author": {
+    "name": "洛竹",
+    "email": "youngjuning@aliyun.com",
+    "url": "https://youngjuning.js.org"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
