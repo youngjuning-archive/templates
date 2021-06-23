@@ -1,6 +1,4 @@
-# tuyaworks-template
-
-Tuyaworks Template
+# @tuyaworks/template
 
 ## Get Started
 
