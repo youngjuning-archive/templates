@@ -13,7 +13,7 @@
   },
   "pid": [],
   "uiid": "",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "start:umi": "umi dev",
