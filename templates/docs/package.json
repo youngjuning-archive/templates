@@ -1,6 +1,10 @@
 {
-  "private": true,
-  "name": "tuya-panel-kit-docs",
+  "private": false,
+  "name": "@tuyaworks/tpl-docs",
+  "author": {
+    "name": "muhai.li",
+    "email": "muhai.li@tuya.com"
+  },
   "scripts": {
     "start": "dumi dev",
     "build": "dumi build",
