@@ -8,6 +8,9 @@
     "name": "muhai.li",
     "email": "muhai.li@tuya.com"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "pid": [],
   "uiid": "",
   "version": "1.0.1",

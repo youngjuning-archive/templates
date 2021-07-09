@@ -5,6 +5,9 @@
     "name": "muhai.li",
     "email": "muhai.li@tuya.com"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "start": "dumi dev",
     "build": "dumi build",
