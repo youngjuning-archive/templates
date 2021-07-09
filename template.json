@@ -11,6 +11,15 @@
     {
       "name": "@tuyaworks/templates",
       "registry": "npm"
+    },
+    {
+      "name": "@tuyaworks/tpl-docs",
+      "registry": "npm"
+    }
+    ,
+    {
+      "name": "@tuyaworks/tpl-docs-demo",
+      "registry": "npm"
     }
   ]
 }
