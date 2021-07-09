@@ -3,11 +3,7 @@
     "5.28"
   ],
   "license": "MIT",
-  "name": "@tuyaworks/tpl-docs-demo",
-  "author": {
-    "name": "muhai.li",
-    "email": "muhai.li@tuya.com"
-  },
+  "name": "docs-demo",
   "pid": [],
   "uiid": "",
   "version": "1.0.1",
