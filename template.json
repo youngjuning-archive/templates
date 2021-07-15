@@ -10,16 +10,19 @@
   "list": [
     {
       "name": "@tuyaworks/templates",
-      "registry": "npm"
+      "registry": "npm",
+      "description": "创建模板项目的模板"
     },
     {
       "name": "@tuyaworks/tpl-docs",
-      "registry": "npm"
+      "registry": "npm",
+      "description": "创建文档站点的模板"
     }
     ,
     {
       "name": "@tuyaworks/tpl-docs-demo",
-      "registry": "npm"
+      "registry": "npm",
+      "description": "创建文档 Demo 站点的模板"
     }
   ]
 }
